@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_05</string>
+    <string name="tv_data">Data</string>
+    <string name="btn_openDialog">Open Dialog</string>
+    <string name="btn_exitApp">Exit app</string>
+    <string name="btn_OK">OK</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="first_element">First</string>
+    <string name="second_element">Second</string>
+</resources>
